@@ -1,0 +1,8 @@
+{
+  "name": "Shopeasy",
+  "description": "A modern, responsive online shopping experience with real-time cart updates and product filtering.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
